@@ -8,6 +8,6 @@
 
 #ifndef _FAiOSApp_Header_h
 #define _FAiOSApp_Header_h
-
-
+#import <CommonCrypto/CommonCrypto.h>
+#import <QuartzCore/QuartzCore.h>
 #endif /* _FAiOSApp_Header_h */
